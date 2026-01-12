@@ -1,5 +1,5 @@
 # flameVelociraptor2
-trying again
+trying again..
 echo "# gloriousEdam" >> README.md
 git init
 git add README.md
